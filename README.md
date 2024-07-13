@@ -1,4 +1,4 @@
-## Hi there 👋,
+## Hi there 👋
    I'm Aiswarya! I'm an electronics engineering student passionate about  Signal processing, Microelectronics, Circuit design & Machine learning.
 
 ## About Me
@@ -26,5 +26,5 @@
 ### [Project 2: Running GenAI on Intel AI laptops and Simple LLMInterference on CPU and fine-tuning of LLM models using Intel® OpenVINO™](https://github.com/23Jyo/SiliconSquad.git)
 
 ## Contact me
-- [LinkedIn](https://www.linkedin.com/in/aiswarya-rahul-a19707235)
+-[LinkedIn](https://www.linkedin.com/in/aiswarya-rahul-a19707235)
 - [Email](mailto: aiswaryarahull2002@gmail.com)
