@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋,
+   I'm Aiswarya! I'm an electronics engineering student passionate about  Signal processing, Microelectronics, Circuit design & Machine learning.
 
-<!--
-**aiswaryarahull/aiswaryarahull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 Electronics Engineering Student at Saintgits College of Engineering.
+- 🌱 Currently Learning about VLSI, Deep learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Programming Languages
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-0D76A8?style=flat&logo=verilog&logoColor=white)
+
+### Tools & Technologies
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+## Projects
+
+### [Project 1: Diet Guide]
+(https://github.com/sharansuzn/tink-her-hack)
+### [Project 2: Running GenAI on Intel AI laptops and Simple LLMInterference on CPU and fine-tuning of LLm models using Intel® OpenVINO™](https://github.com/23Jyo/SiliconSquad.git)
+
+## Contact me
+- [LinkedIn](https://www.linkedin.com/in/aiswarya-rahul-a19707235)
+- [Email](mailto: aiswaryarahull2002@gmail.com)
