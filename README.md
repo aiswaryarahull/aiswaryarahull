@@ -30,5 +30,7 @@
 (https://github.com/23Jyo/SiliconSquad.git)
 
 ## Contact me
--[LinkedIn](https://www.linkedin.com/in/aiswarya-rahul-a19707235)
-- [Email](mailto: aiswaryarahull2002@gmail.com)
+
+- 📧 Email: aiswaryarahull2002@gmail.com
+- 💼 LinkedIn: (https://www.linkedin.com/in/aiswarya-rahul-a19707235)
+
