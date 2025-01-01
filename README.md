@@ -1,5 +1,5 @@
 ## Hi there 👋
-   I'm Aiswarya! I'm an electronics engineering student passionate about  Signal processing, digitalelectronics, Circuit design & Machine learning.
+   I'm Aiswarya! I'm an electronics engineering student passionate about  Signal processing, Digitalelectronics, Circuit design & Machine learning.
 
 ## About Me
 
